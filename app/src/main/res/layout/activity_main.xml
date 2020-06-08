@@ -11,7 +11,7 @@
         android:id="@+id/textView12"
         android:layout_width="251dp"
         android:layout_height="233dp"
-        android:text="적당히?"
+        android:text="적당히? 되면 좋겠어"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
