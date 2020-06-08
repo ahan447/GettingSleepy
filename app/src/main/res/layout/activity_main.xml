@@ -117,7 +117,7 @@
         android:id="@+id/textView11"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="메인인데요"
         tools:layout_editor_absoluteX="139dp"
         tools:layout_editor_absoluteY="30dp" />
 
